@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-11-17T14:14:47.972Z",
-  "synced": "2026-11-17T14:01:07.121Z",
+  "generatedAt": "2026-11-17T14:27:39.983Z",
+  "synced": "2026-11-17T14:27:23.185Z",
   "matches": 1695,
-  "registerSealed": 70
+  "registerSealed": 70,
+  "comboDays": 5,
+  "stats": 40,
+  "statsFails": 0,
+  "historySettled": 2
 }
