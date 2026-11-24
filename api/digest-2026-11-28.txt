@@ -34,7 +34,7 @@ LaLiga
 
 Premier League
 15:00 Leeds United – Coventry City : 1 50 % · N 24 % · 2 26 % (modèle : 1)
-15:00 Man United – Brentford : 1 39 % · N 29 % · 2 33 % (modèle : 1)
+15:00 Man United – Brentford : 1 37 % · N 29 % · 2 34 % (modèle : 1)
 17:30 Ipswich Town – Aston Villa : 1 37 % · N 29 % · 2 34 % (modèle : 1)
 
 Serie A
@@ -42,7 +42,7 @@ Serie A
 17:00 Torino – Lazio : 1 32 % · N 28 % · 2 40 % (modèle : 2)
 19:45 Inter – Genoa : 1 53 % · N 23 % · 2 24 % (modèle : 1)
 
-Registre du modèle : 123 pronostics réglés, 52.8 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
+Registre du modèle : 126 pronostics réglés, 53.2 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
 Empreinte de la chaîne : 6a12b6b38797028a
 Estimations sans garantie de gain. Réservé aux majeurs. Jouez avec modération.
 Telegram : https://t.me/SATURNETIPS

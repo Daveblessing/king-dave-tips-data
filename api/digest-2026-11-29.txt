@@ -20,7 +20,7 @@ LaLiga
 20:00 Real Sociedad – Sevilla FC : 1 45 % · N 26 % · 2 29 % (modèle : 1)
 
 Premier League
-12:00 Everton – Liverpool : 1 39 % · N 28 % · 2 32 % (modèle : 1)
+12:00 Everton – Liverpool : 1 38 % · N 29 % · 2 33 % (modèle : 1)
 14:05 Fulham – Bournemouth : 1 39 % · N 28 % · 2 32 % (modèle : 1)
 14:05 Brighton Hove – Newcastle : 1 50 % · N 24 % · 2 26 % (modèle : 1)
 14:05 Sunderland – Tottenham : 1 39 % · N 28 % · 2 32 % (modèle : 1)
@@ -28,12 +28,12 @@ Premier League
 16:30 Arsenal – Man City : 1 51 % · N 24 % · 2 25 % (modèle : 1)
 
 Serie A
-11:30 Udinese – Fiorentina : 1 40 % · N 28 % · 2 32 % (modèle : 1)
+11:30 Udinese – Fiorentina : 1 41 % · N 28 % · 2 31 % (modèle : 1)
 14:00 Sassuolo – Napoli : 1 37 % · N 29 % · 2 34 % (modèle : 1)
-17:00 Roma – Monza : 1 58 % · N 22 % · 2 21 % (modèle : 1)
+17:00 Roma – Monza : 1 57 % · N 22 % · 2 21 % (modèle : 1)
 19:45 Como 1907 – Juventus : 1 49 % · N 25 % · 2 26 % (modèle : 1)
 
-Registre du modèle : 123 pronostics réglés, 52.8 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
+Registre du modèle : 126 pronostics réglés, 53.2 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
 Empreinte de la chaîne : 6a12b6b38797028a
 Estimations sans garantie de gain. Réservé aux majeurs. Jouez avec modération.
 Telegram : https://t.me/SATURNETIPS
