@@ -1,13 +1,13 @@
 Matchs du 30/11/2026 (heure UTC)
 
 LaLiga
-20:00 Espanyol – Getafe : 1 43 % · N 27 % · 2 30 % (modèle : 1)
+20:00 Espanyol – Getafe : 1 46 % · N 26 % · 2 28 % (modèle : 1)
 
 Serie A
-17:30 Lecce – Atalanta : 1 41 % · N 28 % · 2 32 % (modèle : 1)
-19:45 Cagliari – Milan : 1 37 % · N 29 % · 2 34 % (modèle : 1)
+17:30 Lecce – Atalanta : 1 40 % · N 28 % · 2 32 % (modèle : 1)
+19:45 Cagliari – Milan : 1 35 % · N 30 % · 2 35 % (modèle : 2)
 
-Registre du modèle : 66 pronostics réglés, 51.5 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
-Empreinte de la chaîne : b7d6ebdd8fab411c
+Registre du modèle : 123 pronostics réglés, 52.8 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
+Empreinte de la chaîne : 6a12b6b38797028a
 Estimations sans garantie de gain. Réservé aux majeurs. Jouez avec modération.
 Telegram : https://t.me/SATURNETIPS
