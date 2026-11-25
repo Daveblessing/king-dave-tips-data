@@ -8,29 +8,29 @@ Bundesliga
 17:30 Stuttgart – Frankfurt : 1 42 % · N 27 % · 2 31 % (modèle : 1)
 
 Championship
-12:30 Blackburn – Charlton : 1 48 % · N 25 % · 2 27 % (modèle : 1)
-12:30 Lincoln City – Wolverhampton : 1 33 % · N 28 % · 2 39 % (modèle : 2)
-12:30 Preston NE – Norwich : 1 35 % · N 30 % · 2 36 % (modèle : 2)
-15:00 Wrexham – Portsmouth : 1 43 % · N 27 % · 2 31 % (modèle : 1)
+12:30 Blackburn – Charlton : 1 47 % · N 25 % · 2 28 % (modèle : 1)
+12:30 Lincoln City – Wolverhampton : 1 32 % · N 28 % · 2 41 % (modèle : 2)
+12:30 Preston NE – Norwich : 1 36 % · N 30 % · 2 34 % (modèle : 1)
+15:00 Wrexham – Portsmouth : 1 42 % · N 27 % · 2 31 % (modèle : 1)
 15:00 QPR – Sheffield Utd : 1 46 % · N 26 % · 2 28 % (modèle : 1)
 15:00 Millwall – Burnley : 1 46 % · N 26 % · 2 28 % (modèle : 1)
 15:00 Birmingham – Bolton : 1 52 % · N 23 % · 2 24 % (modèle : 1)
-15:00 Derby County – Watford : 1 41 % · N 28 % · 2 32 % (modèle : 1)
-15:00 West Ham – Stoke : 1 38 % · N 29 % · 2 33 % (modèle : 1)
+15:00 Derby County – Watford : 1 40 % · N 28 % · 2 32 % (modèle : 1)
+15:00 West Ham – Stoke : 1 37 % · N 29 % · 2 34 % (modèle : 1)
 15:00 West Brom – Bristol City : 1 53 % · N 23 % · 2 24 % (modèle : 1)
 
 Ligue 1
-16:15 Angers SCO – RC Lens : 1 41 % · N 28 % · 2 32 % (modèle : 1)
+16:15 Angers SCO – RC Lens : 1 42 % · N 27 % · 2 31 % (modèle : 1)
 19:45 Le Havre – Strasbourg : 1 37 % · N 29 % · 2 34 % (modèle : 1)
 19:45 PSG – Lorient : 1 56 % · N 22 % · 2 22 % (modèle : 1)
 19:45 Le Mans – Lille : 1 41 % · N 28 % · 2 32 % (modèle : 1)
 19:45 Nice – Troyes : 1 49 % · N 25 % · 2 27 % (modèle : 1)
 
 LaLiga
-13:00 Real Betis – Rayo Vallecano : 1 55 % · N 22 % · 2 22 % (modèle : 1)
+13:00 Real Betis – Rayo Vallecano : 1 56 % · N 22 % · 2 22 % (modèle : 1)
 15:15 Málaga – Athletic : 1 35 % · N 30 % · 2 35 % (modèle : 1)
 17:30 Elche – Atleti : 1 33 % · N 29 % · 2 39 % (modèle : 2)
-20:00 Real Madrid – Alavés : 1 59 % · N 21 % · 2 20 % (modèle : 1)
+20:00 Real Madrid – Alavés : 1 60 % · N 21 % · 2 20 % (modèle : 1)
 
 Premier League
 15:00 Leeds United – Coventry City : 1 50 % · N 24 % · 2 26 % (modèle : 1)
@@ -42,7 +42,7 @@ Serie A
 17:00 Torino – Lazio : 1 32 % · N 28 % · 2 40 % (modèle : 2)
 19:45 Inter – Genoa : 1 53 % · N 23 % · 2 24 % (modèle : 1)
 
-Registre du modèle : 128 pronostics réglés, 53.9 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
+Registre du modèle : 143 pronostics réglés, 53.8 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
 Empreinte de la chaîne : b3f765741ca210a3
 Estimations sans garantie de gain. Réservé aux majeurs. Jouez avec modération.
 Telegram : https://t.me/SATURNETIPS

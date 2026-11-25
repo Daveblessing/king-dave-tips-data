@@ -1,7 +1,7 @@
 Matchs du 02/12/2026 (heure UTC)
 
 LaLiga
-18:00 Real Sociedad – Real Madrid : 1 33 % · N 29 % · 2 39 % (modèle : 2)
+18:00 Real Sociedad – Real Madrid : 1 32 % · N 28 % · 2 40 % (modèle : 2)
 20:30 Barça – Atleti : 1 49 % · N 25 % · 2 26 % (modèle : 1)
 
 Premier League
@@ -14,7 +14,7 @@ Premier League
 20:15 Newcastle – Man United : 1 46 % · N 26 % · 2 28 % (modèle : 1)
 20:15 Bournemouth – Brighton Hove : 1 41 % · N 28 % · 2 31 % (modèle : 1)
 
-Registre du modèle : 128 pronostics réglés, 53.9 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
+Registre du modèle : 143 pronostics réglés, 53.8 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
 Empreinte de la chaîne : b3f765741ca210a3
 Estimations sans garantie de gain. Réservé aux majeurs. Jouez avec modération.
 Telegram : https://t.me/SATURNETIPS

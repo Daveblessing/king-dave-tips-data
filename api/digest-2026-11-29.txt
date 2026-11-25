@@ -1,12 +1,12 @@
 Matchs du 29/11/2026 (heure UTC)
 
 Bundesliga
-14:30 Freiburg – RB Leipzig : 1 47 % · N 26 % · 2 28 % (modèle : 1)
+14:30 Freiburg – RB Leipzig : 1 46 % · N 26 % · 2 29 % (modèle : 1)
 16:30 Hoffenheim – Augsburg : 1 43 % · N 27 % · 2 30 % (modèle : 1)
 18:30 Dortmund – Leverkusen : 1 50 % · N 24 % · 2 26 % (modèle : 1)
 
 Championship
-12:00 Swansea – Cardiff : 1 48 % · N 25 % · 2 27 % (modèle : 1)
+12:00 Swansea – Cardiff : 1 49 % · N 25 % · 2 26 % (modèle : 1)
 
 Ligue 1
 14:00 Auxerre – Marseille : 1 39 % · N 28 % · 2 33 % (modèle : 1)
@@ -31,9 +31,9 @@ Serie A
 11:30 Udinese – Fiorentina : 1 41 % · N 28 % · 2 31 % (modèle : 1)
 14:00 Sassuolo – Napoli : 1 37 % · N 29 % · 2 34 % (modèle : 1)
 17:00 Roma – Monza : 1 57 % · N 22 % · 2 21 % (modèle : 1)
-19:45 Como 1907 – Juventus : 1 49 % · N 25 % · 2 26 % (modèle : 1)
+19:45 Como 1907 – Juventus : 1 50 % · N 24 % · 2 26 % (modèle : 1)
 
-Registre du modèle : 128 pronostics réglés, 53.9 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
+Registre du modèle : 143 pronostics réglés, 53.8 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
 Empreinte de la chaîne : b3f765741ca210a3
 Estimations sans garantie de gain. Réservé aux majeurs. Jouez avec modération.
 Telegram : https://t.me/SATURNETIPS
