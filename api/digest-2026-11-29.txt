@@ -15,12 +15,12 @@ Ligue 1
 
 LaLiga
 13:00 Valencia – Osasuna : 1 42 % · N 27 % · 2 31 % (modèle : 1)
-15:15 Deportivo – Barça : 1 31 % · N 27 % · 2 42 % (modèle : 2)
-17:30 Celta – Villarreal : 1 45 % · N 26 % · 2 29 % (modèle : 1)
+15:15 Deportivo – Barça : 1 30 % · N 27 % · 2 43 % (modèle : 2)
+17:30 Celta – Villarreal : 1 43 % · N 27 % · 2 30 % (modèle : 1)
 20:00 Real Sociedad – Sevilla FC : 1 45 % · N 26 % · 2 29 % (modèle : 1)
 
 Premier League
-12:00 Everton – Liverpool : 1 38 % · N 29 % · 2 33 % (modèle : 1)
+12:00 Everton – Liverpool : 1 37 % · N 29 % · 2 34 % (modèle : 1)
 14:05 Fulham – Bournemouth : 1 39 % · N 28 % · 2 32 % (modèle : 1)
 14:05 Brighton Hove – Newcastle : 1 50 % · N 24 % · 2 26 % (modèle : 1)
 14:05 Sunderland – Tottenham : 1 39 % · N 28 % · 2 32 % (modèle : 1)
@@ -33,7 +33,7 @@ Serie A
 17:00 Roma – Monza : 1 57 % · N 22 % · 2 21 % (modèle : 1)
 19:45 Como 1907 – Juventus : 1 50 % · N 24 % · 2 26 % (modèle : 1)
 
-Registre du modèle : 143 pronostics réglés, 53.8 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
-Empreinte de la chaîne : ae97aa82f78c2006
+Registre du modèle : 156 pronostics réglés, 53.8 % de réussite (gagnants ÷ réglés, choix 1/N/2 scellés avant le match).
+Empreinte de la chaîne : b2806f0f614a4cc5
 Estimations sans garantie de gain. Réservé aux majeurs. Jouez avec modération.
 Telegram : https://t.me/SATURNETIPS
