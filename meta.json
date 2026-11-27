@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T20:56:19.725Z",
-  "synced": "2026-11-26T17:20:21.115Z",
-  "matches": 1619,
-  "registerSealed": 212,
+  "generatedAt": "2026-11-27T08:07:12.007Z",
+  "synced": "2026-11-26T20:57:46.700Z",
+  "matches": 1606,
+  "registerSealed": 217,
   "comboDays": 6,
   "stats": 40,
   "statsFails": 0,
   "vip": "vip_put ok 49",
-  "scores": "ok 0 push 3",
+  "scores": "ok 5 push 4",
   "historySettled": 19
 }
